@@ -25,7 +25,7 @@ export async function createTranscription(app: FastifyInstance) {
 
     const videoPath = video.path;
 
-    const audioReadStream = createReadStream(videoPath);
+    // const audioReadStream = createReadStream(videoPath);
 
     return { videoId, prompt, videoPath };
   });

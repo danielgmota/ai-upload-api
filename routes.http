@@ -22,5 +22,5 @@ POST http://localhost:3333/videos/fd9adc83-8cb2-4438-9c8f-8f0ec09ec579/transcrip
 Content-Type: application/json
 
 {
-    "prompt": "misc prospector, star citizen, mineiração"
+    "prompt": "tutorial, nobreak"
 }
